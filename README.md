@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AriciaLima
+- 👋 Hi, I’m Arícia Farias Lima, 29 years old and I'm from Brazil.
 - 👀 I’m interested in zombie and farming videogames and go to the gym.
 - 🌱 I’m currently learning HTML,CSS, JavaScript and Java.
 - 📫 How to reach me: aricia.lima@gmail.com
