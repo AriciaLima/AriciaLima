@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Arícia Lima!</h1>
 
 <p align="center">
-Junior front-end developer focused on learning by building real-world projects — especially e-commerce websites and landing pages using HTML, CSS and JavaScript.
-<br />
-Currently working on a personal portfolio and infrastructure setup using Docker on Raspberry Pi 5.
+Aspiring fullstack developer, currently learning by building small and medium real-world projects.  
+Focused on strengthening my foundations in HTML, CSS, JavaScript, Angular, and Node.js.  
+Also exploring infrastructure as a hobby with Docker on Raspberry Pi 5.  
 </p>
 
 ---
