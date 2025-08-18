@@ -42,7 +42,7 @@ Currently working on a personal portfolio and infrastructure setup using Docker 
 
 ---
 
-💼 Goals
+### 💼 Goals
 
 🚀 Build a consistent portfolio with small and medium real-world projects
 
