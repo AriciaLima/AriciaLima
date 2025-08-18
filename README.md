@@ -53,6 +53,7 @@ Currently working on a personal portfolio and infrastructure setup using Docker 
 🛠️ Practice good organization in code, commits, and documentation
 
 🎯 Achieve my first fullstack developer role and keep learning in practice
+
 ---
 
 ### 📫 Reach Me
