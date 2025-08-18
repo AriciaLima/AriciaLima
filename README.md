@@ -42,12 +42,17 @@ Currently working on a personal portfolio and infrastructure setup using Docker 
 
 ---
 
-### 💼 Goals
+💼 Goals
 
-- ✅ Build real e-commerce websites and landing pages  
-- ✅ Learn Git, Docker and DevOps tools  
-- 🚧 Master Angular and build complex web apps  
+🚀 Build a consistent portfolio with small and medium real-world projects
 
+📚 Strengthen my foundations in HTML, CSS, JavaScript, Angular and Node.js
+
+🔍 Learn step by step how to create and consume APIs
+
+🛠️ Practice good organization in code, commits, and documentation
+
+🎯 Achieve my first fullstack developer role and keep learning in practice
 ---
 
 ### 📫 Reach Me
