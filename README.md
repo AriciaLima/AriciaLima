@@ -37,6 +37,8 @@ Currently working on a personal portfolio and infrastructure setup using Docker 
 |--------|-------------|
 | [`docker-home-lab`](https://github.com/AriciaLima/docker-home-lab) | Infrastructure automation using Docker on a Raspberry Pi 5 |
 | [`vanilla-store`](https://github.com/AriciaLima/vanilla-store) | 🛍️ A simple e-commerce front-end built with HTML, CSS and vanilla JavaScript.<br>📌 *Project still in progress. All code comments are written in English.* |
+| [`interactive-todo-list`](https://github.com/AriciaLima/interactive-todo-list) | ✅ An interactive to-do list app built with HTML, CSS and JavaScript.<br>🎯 Focused on DOM manipulation and beginner-friendly JavaScript. |
+
 
 ---
 
