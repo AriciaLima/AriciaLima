@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Arícia Lima!</h1>
 
 <p align="center">
-Aspiring fullstack developer, currently learning by building small and medium real-world projects.  
-Focused on strengthening my foundations in HTML, CSS, JavaScript, Angular, and Node.js.  
-Also exploring infrastructure as a hobby with Docker on Raspberry Pi 5.  
+Aspiring Full Stack Developer focused on building small and medium real-world projects.  
+Currently strengthening my foundations in HTML, CSS, JavaScript, Angular, Node.js, Java, and SQL.  
+Also exploring infrastructure and DevOps concepts as a hobby, experimenting with Docker on Raspberry Pi 5.  
 </p>
 
 ---
@@ -26,9 +26,10 @@ Also exploring infrastructure as a hobby with Docker on Raspberry Pi 5.
 <p align="center">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
-
 ---
 
 ### 💻 Real Projects
@@ -44,15 +45,15 @@ Also exploring infrastructure as a hobby with Docker on Raspberry Pi 5.
 
 ### 💼 Goals
 
-🚀 Build a consistent portfolio with small and medium real-world projects
+🚀 Build a consistent portfolio with small and medium real-world projects  
 
-📚 Strengthen my foundations in HTML, CSS, JavaScript, Angular and Node.js
+📚 Strengthen my foundations in HTML, CSS, JavaScript, Angular, Node.js, Java, and SQL  
 
-🔍 Learn step by step how to create and consume APIs
+🔍 Learn how the front-end and back-end communicate and share data  
 
-🛠️ Practice good organization in code, commits, and documentation
+🛠️ Practice clean code, version control, and good documentation habits  
 
-🎯 Achieve my first fullstack developer role and keep learning in practice
+🎯 Earn my first Full Stack Developer role and keep improving through real projects 
 
 ---
 
