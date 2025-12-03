@@ -34,7 +34,6 @@ Also exploring software architecture and back-end development using Java as my m
 
 | Project | Description |
 |--------|-------------|
-| [`echoes-in-the-dungeon`](https://github.com/AriciaLima/echoes-in-the-dungeon) | 🎮 A console-based adventure game built with Java. Focused on object-oriented programming and clean code practices. |
 | [`vanilla-store`](https://github.com/AriciaLima/vanilla-store) | 🛍️ A simple e-commerce front-end built with HTML, CSS and vanilla JavaScript.<br>📌 *In progress. All code comments are written in English.* |
 | [`interactive-todo-list`](https://github.com/AriciaLima/interactive-todo-list) | ✅ An interactive to-do list app built with HTML, CSS and JavaScript.<br>🎯 Focused on DOM manipulation and localStorage data persistence. |
 
