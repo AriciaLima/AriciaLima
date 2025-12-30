@@ -99,11 +99,13 @@ Focused on DOM manipulation and data persistence using localStorage.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriciaLima&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AriciaLima&show_icons=true&theme=tokyonight&hide_border=true"
+  />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriciaLima&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriciaLima&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriciaLima&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
