@@ -96,14 +96,6 @@ Focused on DOM manipulation and data persistence using localStorage.
 
 <hr style="border:1px solid #444;"/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/AriciaLima?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/AriciaLima?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/AriciaLima?style=for-the-badge" />
-</p>
-
 <p align="center">
 <i>I believe in learning by building. Every project, no matter how small, teaches something new.</i>
 </p>
